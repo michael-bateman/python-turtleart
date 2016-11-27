@@ -1,11 +1,18 @@
+#Turtle Art Drawing Practice Test
+#November 24, 2016
+
+#Import Area---
 import turtle
 import random
+#--------------
 
+#Variables-----------
 length = (25)
 hexturn = (60)
 move = (length*1.75)
 turn = (90)
 notimes = (2)
+#---------------------
 
 michael = turtle.Turtle()
 
