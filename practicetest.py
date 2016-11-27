@@ -6,15 +6,14 @@ import turtle
 import random
 #--------------
 
-#Variables-----------
+#Variables----------------
 length = (25)
 hexturn = (60)
 move = (length*1.75)
 turn = (90)
 notimes = (2)
-#---------------------
-
 michael = turtle.Turtle()
+#--------------------------
 
 def wholefunction(michael):
 	michael.left(turn)
